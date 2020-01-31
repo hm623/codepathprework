@@ -7,7 +7,7 @@ change color of text using a button
 
 ### App Walk-though
 
-<img src="https://recordit.co/w9V5RLjDUb" width=200><br>
+<img src=https://recordit.co/w9V5RLjDUbwidth=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {Hassan}!
